@@ -22,4 +22,4 @@ In computer science, approximate string matching (often referred to as fuzzy str
 
 - <b>d) Example of prediction output</b>
 
-<div style="text-align:right"><img src="./references/output.PNG" width="50" height="50" align="center"/></div>
+<img src="./references/output.PNG" width="600" height="500" align="center"/>
