@@ -14,4 +14,12 @@ In computer science, approximate string matching (often referred to as fuzzy str
   - Test set is the dataset that you want the model to predict for their labels
   
 - <b>c) Run the scripts in sequence</b>
-  - Run scripts 1 - 4
+  - Before running the scripts, ensure that all paths and model name is correctly written
+  - Run train.py
+  - Run plot.py
+  - Run finetune.py
+  - Run test.py
+
+- <b>d) Example of prediction output</b>
+
+<div style="text-align:right"><img src="./references/output.png" width="50" height="50" align="center"/></div>
