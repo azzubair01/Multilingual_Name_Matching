@@ -1,5 +1,5 @@
 <div style="text-align:right"><img src="./references/ubuntu_small.png" width="50" height="50" align="right"/></div>
-
+<div style="text-align:right"><img src="./references/cuda.png" width="70" height="60" align="right"/></div>
 
 # Multilingual Name Matching
 In computer science, approximate string matching (often referred to as fuzzy string searching) is the technique of finding strings that match a pattern approximately. The problem of approximate string matching is typically divided into two sub-problems: finding approximate substring matches inside a given string and finding dictionary strings that match the pattern approximately. In this project we trained, finetuned, and test a fuzzy matching model for four common languages in Malaysia such as Malay, Arabic, Mandarin, and Tamil. In this project, we utilised an open source library called DeezyMatch which has the capability of doing as this repository is named.
